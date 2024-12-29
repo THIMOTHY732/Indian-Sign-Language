@@ -1,7 +1,7 @@
 # Indian Sign Language
 
 ## 📖 Project Overview
-The **Indian Sign Language Translator** is designed to bridge communication gaps between the hearing and the deaf or hard-of-hearing community. This project translates **text** and **speech** into **Indian Sign Language (ISL)** using Natural Language Processing, Speech Recognition, and Image Processing techniques.
+The **Indian Sign Language** is designed to bridge communication gaps between the hearing and the deaf or hard-of-hearing community. This project translates **text** and **speech** into **Indian Sign Language (ISL)** using Natural Language Processing, Speech Recognition, and Image Processing techniques.
 
 The application provides a user-friendly interface to help users understand ISL signs in real-time, making communication more accessible and inclusive.
 
