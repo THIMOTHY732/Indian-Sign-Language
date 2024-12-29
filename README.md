@@ -67,15 +67,15 @@ The application provides a user-friendly interface to help users understand ISL 
 Contributions are welcome!
 To contribute:
 1.Fork the repository.
-2.Create a new branch:
-    ```bash
+- 2.Create a new branch:
+     ```bash
     git checkout -b feature-name
     ```
-3.Make your changes and commit:
+- 3.Make your changes and commit:
     ```bash
     git commit -m "Add your message here"
     ```
-4.Push to the branch:
+- 4.Push to the branch:
     ```bash
     git push origin feature-name
     ```
