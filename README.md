@@ -66,7 +66,7 @@ The application provides a user-friendly interface to help users understand ISL 
 ## 🤝 Contributing
 Contributions are welcome!
 To contribute:
-1.Fork the repository.
+- 1.Fork the repository.
 - 2.Create a new branch:
      ```bash
     git checkout -b feature-name
