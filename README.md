@@ -85,9 +85,9 @@ To contribute:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 🙌 Acknowledgments
-The creators of Python and its libraries.
-The developers of Streamlit for their excellent framework.
-Inspiration from various resources on Indian Sign Language.
+- The creators of Python and its libraries.
+- The developers of Streamlit for their excellent framework.
+- Inspiration from various resources on Indian Sign Language.
 
 ## 🧑‍💻 Author
 K.Thimothi,
