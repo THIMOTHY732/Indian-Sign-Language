@@ -1,4 +1,4 @@
-# Indian Sign Language Translator
+# Indian Sign Language
 
 ## 📖 Project Overview
 The **Indian Sign Language Translator** is designed to bridge communication gaps between the hearing and the deaf or hard-of-hearing community. This project translates **text** and **speech** into **Indian Sign Language (ISL)** using Natural Language Processing, Speech Recognition, and Image Processing techniques.
