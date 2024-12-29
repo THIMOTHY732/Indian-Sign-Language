@@ -40,20 +40,20 @@ The application provides a user-friendly interface to help users understand ISL 
 ---
 
 ## 🚀 How to Run the Project
-1. Clone the repository:
+- 1. Clone the repository:
     ```bash
     git clone https://github.com/THIMOTHY732/Main.git
     ```
    
-2.Navigate to the project directory:
+- 2.Navigate to the project directory:
     ```bash
     cd Indian-Sign-Language
     ```
-3.Install dependencies:
+- 3.Install dependencies:
     ```bash
   pip install -r requirements.txt
     ```
-4.Run the application:
+- 4.Run the application:
     ```bash
    streamlit run app.py
     ```
@@ -79,7 +79,7 @@ To contribute:
     ```bash
     git push origin feature-name
     ```
-5.Open a pull request on GitHub.
+- 5.Open a pull request on GitHub.
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
