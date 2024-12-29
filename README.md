@@ -30,7 +30,12 @@ The application provides a user-friendly interface to help users understand ISL 
 
 ## 📂 Project Structure
 
-Indian-Sign-Language-Translator/ ├── data/ # Dataset for sign images ├── scripts/ # Python scripts for processing ├── app.py # Main Streamlit application ├── requirements.txt # List of dependencies ├── README.md # Project documentation └── LICENSE # Project license
+- `data/`: Dataset for sign images  
+- `scripts/`: Python scripts for processing  
+- `app.py`: Main Streamlit application  
+- `requirements.txt`: List of dependencies  
+- `README.md`: Project documentation  
+- `LICENSE`: Project license  
 
 ---
 
