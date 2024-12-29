@@ -41,13 +41,22 @@ The application provides a user-friendly interface to help users understand ISL 
 
 ## 🚀 How to Run the Project
 1. Clone the repository:
-   git clone https://github.com/THIMOTHY732/Main.git
+    ```bash
+    git clone https://github.com/THIMOTHY732/Main.git
+    ```
+   
 2.Navigate to the project directory:
-  cd Indian-Sign-Language-Translator
+    ```bash
+    cd Indian-Sign-Language
+    ```
 3.Install dependencies:
+    ```bash
   pip install -r requirements.txt
+    ```
 4.Run the application:
-  streamlit run app.py
+    ```bash
+   streamlit run app.py
+    ```
 
 ## 🌟 Use Cases
 **Educational Tools:** Helping individuals learn Indian Sign Language.
@@ -59,11 +68,17 @@ Contributions are welcome!
 To contribute:
 1.Fork the repository.
 2.Create a new branch:
-  git checkout -b feature-name
+    ```bash
+    git checkout -b feature-name
+    ```
 3.Make your changes and commit:
-  git commit -m "Add your message here"
+    ```bash
+    git commit -m "Add your message here"
+    ```
 4.Push to the branch:
-  git push origin feature-name
+    ```bash
+    git push origin feature-name
+    ```
 5.Open a pull request on GitHub.
 
 ## 📜 License
